@@ -1,49 +1,49 @@
-# Hi, ich bin Bjarne Herbst 👋
+# Hi, I'm Bjarne Herbst 👋
 
-Ich bin ein **B.Sc. Student der Statistik und Data Science an der Ludwig-Maximilians-Universität München (LMU)**, leidenschaftlich daran interessiert, komplexe Daten in umsetzbare Erkenntnisse zu verwandeln. Mein Weg führte mich von einem Hintergrund in **Sportwissenschaft und Mathematik** zur faszinierenden Welt der Datenanalyse, wobei ich eine besondere Neigung für die Anwendung statistischer Methoden im **Profisport** entwickelt habe.
+I am a **B.Sc. student of Statistics and Data Science at the Ludwig-Maximilians-University Munich (LMU)**, passionately interested in transforming complex data into actionable insights. My path led me from a background in **Sports Science and Mathematics** to the fascinating world of data analysis, where I developed a particular inclination for applying statistical methods in **professional sports**.
 
-## 🔬 Mein Fokus & Meine Interessen
+## 🔬 My Focus & Interests
 
-* **Statistische Modellierung & Datenanalyse:** Ich finde es faszinierend, wie statistische Methoden die Grundlage schaffen, um Muster in Bewegungen zu erklären und diese zu optimieren.
-* **Maschinelles Lernen:** Insbesondere der zunehmende Einsatz künstlicher Intelligenz zur Leistungsverbesserung von Sportlern fasziniert mich.
-* **Praktische Anwendbarkeit:** Ich liebe es, komplexe Zusammenhänge in der Realität greifbar zu machen und fundierte Entscheidungen treffen zu können.
-* **Datenanalyse im Profisport:** Mein berufliches Ziel ist es, in diesem Bereich tätig zu werden.
+* **Statistical Modeling & Data Analysis:** I find it fascinating how statistical methods form the basis for explaining patterns in movements and optimizing them.
+* **Machine Learning:** The increasing use of artificial intelligence to improve athletes' performance particularly fascinates me.
+* **Practical Applicability:** I love making complex real-world connections tangible and enabling informed decision-making.
+* **Data Analysis in Professional Sports:** My career goal is to work in this field.
 
-## 🛠️ Meine Fähigkeiten
+## 🛠️ My Skills
 
-* **Programmiersprachen:**
-    * Python (Gute Kenntnisse)
-    * R (Gute Kenntnisse)
+* **Programming Languages:**
+    * Python (Good knowledge)
+    * R (Good knowledge)
 * **Software & Tools:**
-    * LaTeX (Grundkenntnisse)
-    * Microsoft Office (Word, Excel & PowerPoint - Gute Kenntnisse)
-    * Adobe Suite (Photoshop, Illustrator & InDesign - Gute Kenntnisse)
-* **Methoden:** Biomechanische Datenanalyse, Datenverarbeitung, Literaturrecherchen.
+    * LaTeX (Basic knowledge)
+    * Microsoft Office (Word, Excel & PowerPoint - Good knowledge)
+    * Adobe Suite (Photoshop, Illustrator & InDesign - Good knowledge)
+* **Methods:** Biomechanical data analysis, data processing, literature research.
 
-## 📚 Mein Bildungsweg
+## 📚 My Education
 
-* **B.Sc. Statistik & Data Science** mit Nebenfach Informatik | Ludwig-Maximilians-Universität München (seit 10.2024)
-* **B.A. Mathematik & Sportwissenschaft** mit Profil Lehramt an Gymnasien | Christian-Albrechts-Universität zu Kiel (10.2020 - 10.2024)
-* **B.A. Mathematik & Biologie** mit Profil Lehramt an Gymnasien | Christian-Albrechts-Universität zu Kiel (10.2019 - 10.2020)
+* **B.Sc. Statistics & Data Science** with minor in Computer Science | Ludwig-Maximilians-University Munich (since Oct 2024)
+* **B.A. Mathematics & Sports Science** with focus on Teaching at Gymnasiums | Christian-Albrechts-University Kiel (Oct 2020 - Oct 2024)
+* **B.A. Mathematics & Biology** with focus on Teaching at Gymnasiums | Christian-Albrechts-University Kiel (Oct 2019 - Oct 2020)
 
-## 💼 Berufserfahrung & Projekte
+## 💼 Work Experience & Projects
 
-* **Studentische Hilfskraft @ TUM School of Medicine and Health** (seit 09.2024)
-* **Studentische Hilfskraft @ Institut für Sportwissenschaft, CAU Kiel** (09.2023 - 08.2024)
-    * Projekt "DigiProSMK"
-* **Studentische Hilfskraft im Bewegungslabor @ Institut für Sportwissenschaft, CAU Kiel** (10.2023 - 05.2024)
-    * Unterstützung von Studierenden und eigenständige Durchführung von Messungen für Projekte und Abschlussarbeiten.
-    * Datenverarbeitung und Ausarbeitung von schriftlichen Handreichungen für Studierende zum Umgang mit Messsystemen.
-    * Dies weckte mein Interesse an Statistik als Schnittstelle zwischen Sportwissenschaft und Mathematik.
+* **Student Assistant @ TUM School of Medicine and Health** (since Sep 2024)
+* **Student Assistant @ Institute of Sports Science, CAU Kiel** (Sep 2023 - Aug 2024)
+    * Project "DigiProSMK"
+* **Student Assistant in the Movement Lab @ Institute of Sports Science, CAU Kiel** (Oct 2023 - May 2024)
+    * Support for students and independent execution of measurements for projects and theses.
+    * Data processing and preparation of written handouts for students on handling various measurement systems.
+    * This sparked my interest in statistics as the perfect interface between sports science and mathematics.
 
-## 🌟 Ehrenamtliches Engagement
+## 🌟 Volunteer Engagement
 
-* **Gewähltes Mitglied der Fachschaft Sport @ CAU Kiel** (10.2022 - Sommer 2024)
-    * Leitung von Arbeitsgruppen, u.a. Mediengestaltung (Adobe Photoshop/InDesign).
-    * Leitung der Veranstaltung "Sportliche Wiehnacht" (ca. 800 Gäste), Gründung eines Awareness-Teams und Optimierung von Veranstaltungsprozessen.
-    * Engagement in Arbeitsgruppen wie Studiengangsentwicklung, Merchandise, Orientierungstage und Eignungsprüfung.
-    * Ausgezeichnete Kommunikationsfähigkeit sowie eine angenehme Nähe zu Mitgliedern des Instituts und der Studierendenschaft.
+* **Elected Member of the Sports Faculty Student Council @ CAU Kiel** (Oct 2022 - Summer 2024)
+    * Led working groups, including media design (Adobe Photoshop/InDesign).
+    * Led the "Sportliche Wiehnacht" event (approx. 800 guests), established an awareness team, and optimized event processes.
+    * Engaged in working groups such as curriculum development, merchandise, orientation days, and aptitude tests.
+    * Demonstrated excellent communication skills and a pleasant rapport with institute members and students alike.
 
-## 🔗 Vernetzen wir uns!
+## 🔗 Let's Connect!
 
-* **E-Mail:** bjarneh22@gmail.com
+* **Email:** bjarneh22@gmail.com
