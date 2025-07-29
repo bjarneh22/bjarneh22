@@ -41,7 +41,6 @@ I am a **B.Sc. student of Statistics and Data Science at the Ludwig-Maximilians-
     * Led working groups, including media design (Adobe Photoshop/InDesign).
     * Led the "Sportliche Wiehnacht" event (approx. 800 guests), established an awareness team, and optimized event processes.
     * Engaged in working groups such as curriculum development, merchandise, orientation days, and aptitude tests.
-    * Demonstrated excellent communication skills and a pleasant rapport with institute members and students alike.
 
 ## 🔗 Let's Connect!
 
