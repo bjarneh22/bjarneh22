@@ -1,26 +1,30 @@
 # Hi, I'm Bjarne 👋
 
-I am a **B.Sc. student of Statistics and Data Science at the Ludwig-Maximilians-University Munich (LMU)**, passionately interested in transforming complex data into actionable insights. My path led me from a background in **Sports Science and Mathematics** to the fascinating world of data analysis, where I developed a particular inclination for applying statistical methods in **sports**.
+I am a **M.Sc. student of Statistics and Data Science at the University of Göttingen**, passionately interested in transforming complex data into actionable insights. My path led me from a background in **Sports Science and Mathematics** to the fascinating world of data analysis, where I developed a particular inclination for applying statistical methods in **sports**.
 
 ## 🔬 My Focus & Interests
 
 * **Statistical Modeling & Data Analysis:** I find it fascinating how statistical methods form the basis for explaining patterns in movements and optimizing them.
 * **Machine Learning:** The increasing use of artificial intelligence to improve athletes' performance particularly fascinates me.
 * **Practical Applicability:** I love making complex real-world connections tangible and enabling informed decision-making.
-* **Data Analysis in Professional Sports:** My career goal is to work in this field.
+* **Data Analysis in Biomechanics:** My career goal is to work in this field.
 
 ## 🛠️ My Skills
 
 * **Programming Languages:**
     * Python (Good knowledge)
     * R (Good knowledge)
+    * SQL (Good knowledge)
+    * Jupyter Notebooks (Good Knowledge)
+    * Google Colab (Good Knowledge)
 * **Software & Tools:**
-    * LaTeX (Basic knowledge)
+    * LaTeX (Good knowledge)
     * Microsoft Office (Word, Excel & PowerPoint - Good knowledge)
-* **Methods:** Biomechanical data analysis, data processing, literature research.
+* **Methods:** Biomechanical data analysis & diagnostic systems, data processing, literature research.
 
 ## 📚 My Education
 
+* **M.Sc. Applied Statistics with specialisation in Life Science | University of Göttingen (from Oct 2025)
 * **B.Sc. Statistics & Data Science** with minor in Computer Science | Ludwig-Maximilians-University Munich (since Oct 2024)
 * **B.A. Mathematics & Sports Science** with focus on Teaching at Gymnasiums | Christian-Albrechts-University Kiel (Oct 2020 - Oct 2024)
 * **B.A. Mathematics & Biology** with focus on Teaching at Gymnasiums | Christian-Albrechts-University Kiel (Oct 2019 - Oct 2020)
